@@ -1,0 +1,14 @@
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\bin\Debug\net8.0\Inheritance-class.exe
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\bin\Debug\net8.0\Inheritance-class.deps.json
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\bin\Debug\net8.0\Inheritance-class.runtimeconfig.json
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\bin\Debug\net8.0\Inheritance-class.dll
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\bin\Debug\net8.0\Inheritance-class.pdb
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\Inheritance-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\Inheritance-class.AssemblyInfoInputs.cache
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\Inheritance-class.AssemblyInfo.cs
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\Inheritance-class.csproj.CoreCompileInputs.cache
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\Inheritance-class.dll
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\refint\Inheritance-class.dll
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\Inheritance-class.pdb
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\Inheritance-class.genruntimeconfig.cache
+C:\Users\UISER\Downloads\C#Projects\Inheritance\Inheritance-class\obj\Debug\net8.0\ref\Inheritance-class.dll

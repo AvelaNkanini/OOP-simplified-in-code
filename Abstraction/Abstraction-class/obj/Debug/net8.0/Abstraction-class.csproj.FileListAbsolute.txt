@@ -1,0 +1,14 @@
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\bin\Debug\net8.0\Abstraction-class.exe
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\bin\Debug\net8.0\Abstraction-class.deps.json
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\bin\Debug\net8.0\Abstraction-class.runtimeconfig.json
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\bin\Debug\net8.0\Abstraction-class.dll
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\bin\Debug\net8.0\Abstraction-class.pdb
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\Abstraction-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\Abstraction-class.AssemblyInfoInputs.cache
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\Abstraction-class.AssemblyInfo.cs
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\Abstraction-class.csproj.CoreCompileInputs.cache
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\Abstraction-class.dll
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\refint\Abstraction-class.dll
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\Abstraction-class.pdb
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\Abstraction-class.genruntimeconfig.cache
+C:\Users\UISER\Downloads\C#Projects\Abstraction\Abstraction-class\obj\Debug\net8.0\ref\Abstraction-class.dll

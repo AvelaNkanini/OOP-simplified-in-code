@@ -1,0 +1,14 @@
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\bin\Debug\net8.0\Encapsulation-class.exe
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\bin\Debug\net8.0\Encapsulation-class.deps.json
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\bin\Debug\net8.0\Encapsulation-class.runtimeconfig.json
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\bin\Debug\net8.0\Encapsulation-class.dll
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\bin\Debug\net8.0\Encapsulation-class.pdb
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\Encapsulation-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\Encapsulation-class.AssemblyInfoInputs.cache
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\Encapsulation-class.AssemblyInfo.cs
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\Encapsulation-class.csproj.CoreCompileInputs.cache
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\Encapsulation-class.dll
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\refint\Encapsulation-class.dll
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\Encapsulation-class.pdb
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\Encapsulation-class.genruntimeconfig.cache
+C:\Users\UISER\Downloads\C#Projects\Encapsulation\Encapsulation-class\obj\Debug\net8.0\ref\Encapsulation-class.dll
